@@ -1,0 +1,5 @@
+port=8819
+user=root
+password=3868496
+url=jdbc:mysql://localhost:3306/chat_room?serverTimezone=UTC
+driverClass=com.mysql.jdbc.Driver
