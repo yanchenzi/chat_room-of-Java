@@ -8,8 +8,7 @@ You can change the corresponding mysql-connector-Java-xxxx.jar according to your
 
 Database exported in chat_ room.sql
 ---
-						闫假卿于哈尔滨工程大学 
-						Xin_chenzi at HEU
+						chenzi @ HEU
 
 						2022.5.2
 
